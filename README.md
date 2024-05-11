@@ -1,2 +1,2 @@
-# Recipies
-A simple webpage containing recipies
+# Recipes
+A simple webpage containing recipes
